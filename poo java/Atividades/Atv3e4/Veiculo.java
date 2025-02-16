@@ -17,7 +17,6 @@ public class Veiculo {
         System.out.println("Capacidade do tanque: " + capacidadeTanque);
         System.out.println("Velocidade máxima: " + velocidadeMaxima);
         System.out.println("Consumo médio: " + consumoMedio);
-        System.out.printf("\n");
     }
 
     public Veiculo(String placa, String cor, int numeroPassageiros, double capacidadeTanque, double velocidadeMaxima,

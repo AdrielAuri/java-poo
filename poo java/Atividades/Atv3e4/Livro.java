@@ -15,7 +15,6 @@ public class Livro {
         System.out.println("ISBN: " + isbn);
         System.out.println("Número de páginas: " + numeroPaginas);
         System.out.println("Valor de compra: R$" + valorCompra);
-        System.out.printf("\n");
     }
 
     public Livro(String titulo, String autor, double isbn, int numeroPaginas, double valorCompra) {

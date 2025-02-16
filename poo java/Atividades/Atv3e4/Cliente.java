@@ -15,7 +15,6 @@ public class Cliente {
         System.out.println("CPF: " + cpf);
         System.out.println("Endereço: " + endereco);
         System.out.println("Telefone: " + telefone);
-        System.out.printf("\n");
     }
 
     public Cliente(String nome, int idade, String cpf, String endereco, String telefone) {
