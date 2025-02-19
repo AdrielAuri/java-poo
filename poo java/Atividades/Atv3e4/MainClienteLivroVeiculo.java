@@ -3,7 +3,7 @@ package Atividades.Atv3e4;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main {
+public class MainClienteLivroVeiculo {
     public static void main(String[] args) {
 
         String repetir = "";

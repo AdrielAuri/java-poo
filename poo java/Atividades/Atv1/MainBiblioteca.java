@@ -1,7 +1,7 @@
 package Atividades.Atv1;
 import java.util.Scanner;
 
-public class Main {
+public class MainBiblioteca {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
