@@ -17,7 +17,7 @@ public class MainClientePet {
         System.out.println("Informe a raça do pet: ");
         String racaPet = sc.nextLine();
 
-        Cliente cliente1 = new Cliente(nomePet, idadePet, new Pet(nomePet, idadePet, racaPet));
+        Cliente cliente1 = new Cliente(nome, idade, new Pet(nomePet, idadePet, racaPet));
 
         System.out.println(cliente1.toString());
 
