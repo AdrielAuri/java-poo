@@ -1,6 +1,6 @@
 package Atv03Interface;
 
-// Estendendo a classe pai Funcionario e implementando a interface Contratação
+// Estendendo a classe modelo Funcionario e implementando a interface Contratação
 public class Diretor extends Funcionario implements Contratacao {
     private final double PREMIO = 0.2;
  
