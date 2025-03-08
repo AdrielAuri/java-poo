@@ -8,8 +8,6 @@ public class MainFuncionario {
         System.out.println(diretor.toString());
         System.out.println(motoboy.toString());
         
-        diretor.admitir(motoboy);
-        
     }
 
 }
