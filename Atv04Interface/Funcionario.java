@@ -50,7 +50,4 @@ public abstract class Funcionario implements SalarioFinal {
         return "Funcionario [nome=" + nome + ", cpf=" + cpf + ", dataNascimento=" + dataNascimento + ", salarioBase="
                 + salarioBase + "]";
     }
-
-    
-
 }

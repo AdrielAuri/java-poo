@@ -23,8 +23,7 @@ public class Motoboy extends Funcionario {
 
     @Override
     public String toString() {
-        return "Motoboy [placaDaMoto=" + placaDaMoto + ", nome=" + nome + ", cpf=" + cpf + ", dataNascimento="
-                + dataNascimento + ", salarioBase=" + salarioBase + "]";
+        return super.toString() + ", Placa da Moto: " + placaDaMoto;
     }
 
     
