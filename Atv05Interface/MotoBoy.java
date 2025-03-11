@@ -29,5 +29,4 @@ public class MotoBoy extends Funcionario {
     public double getSalarioFinal() {
         return salarioBase;
     }
-
 }
